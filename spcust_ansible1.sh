@@ -95,7 +95,7 @@ invokeCLI()
     Update RemoteNode
 	name=control
         Protocol=TLS1.2
-        Override=y
+        Override=n
         AuthTimeout=120
         KeyCertLabel=ansible1
         EncryptData=y
